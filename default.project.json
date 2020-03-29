@@ -1,0 +1,12 @@
+{
+  "name": "ObjectManager",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Modules": {
+        "$path": "src"
+      }
+    }
+  }
+}
